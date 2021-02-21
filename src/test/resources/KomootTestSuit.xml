@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="KomootTestSuit" verbose="1">
+
+	<test name="TC001_simpleLoginTest">
+		<classes>
+			<class name="testCases.TC001_simpleLoginTest" />
+		</classes>
+	</test>
+
+	<test name="TC002_pageTitleTest">
+		<classes>
+			<class name="testCases.TC002_pageTitleTest" />
+		</classes>
+	</test>
+
+	<test name="TC003_shopPriceTest">
+		<classes>
+			<class name="testCases.TC003_shopPriceTest" />
+		</classes>
+	</test>
+
+	<test name="TC004_routesAndTopics">
+		<classes>
+			<class name="testCases.TC004_routesAndTopics" />
+		</classes>
+	</test>
+
+	<test name="TC005_dataDrivenSimpleLogin">
+		<classes>
+			<class name="testCases.TC005_dataDrivenSimpleLogin" />
+		</classes>
+	</test>
+
+</suite>

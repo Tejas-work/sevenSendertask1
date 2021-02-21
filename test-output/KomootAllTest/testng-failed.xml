@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [KomootAllTest]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TC001_simpleLoginTest(failed)">
+    <classes>
+      <class name="testCases.TC001_simpleLoginTest">
+        <methods>
+          <include name="LaunchBrowser"/>
+          <include name="CloseBrowser"/>
+          <include name="LoginTest"/>
+        </methods>
+      </class> <!-- testCases.TC001_simpleLoginTest -->
+    </classes>
+  </test> <!-- TC001_simpleLoginTest(failed) -->
+</suite> <!-- Failed suite [KomootAllTest] -->

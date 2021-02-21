@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-21T13:52:27 CET" name="KomootTestSuit" finished-at="2021-02-21T13:53:42 CET" duration-ms="74469">
+    <groups>
+    </groups>
+    <test started-at="2021-02-21T13:52:27 CET" name="TC001_simpleLoginTest" finished-at="2021-02-21T13:52:41 CET" duration-ms="13644">
+      <class name="testCases.TC001_simpleLoginTest">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:testCases.TC001_simpleLoginTest@409bf450]" started-at="2021-02-21T13:52:27 CET" name="LaunchBrowser" finished-at="2021-02-21T13:52:35 CET" duration-ms="7693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="LoginTest()[pri:0, instance:testCases.TC001_simpleLoginTest@409bf450]" started-at="2021-02-21T13:52:35 CET" name="LoginTest" finished-at="2021-02-21T13:52:40 CET" duration-ms="5234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testCases.TC001_simpleLoginTest@409bf450]" started-at="2021-02-21T13:52:40 CET" name="CloseBrowser" finished-at="2021-02-21T13:52:41 CET" duration-ms="689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- testCases.TC001_simpleLoginTest -->
+    </test> <!-- TC001_simpleLoginTest -->
+    <test started-at="2021-02-21T13:52:41 CET" name="TC002_pageTitleTest" finished-at="2021-02-21T13:52:58 CET" duration-ms="17244">
+      <class name="testCases.TC002_pageTitleTest">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:testCases.TC002_pageTitleTest@3e694b3f]" started-at="2021-02-21T13:52:41 CET" name="LaunchBrowser" finished-at="2021-02-21T13:52:48 CET" duration-ms="7264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="PageTitleTest()[pri:0, instance:testCases.TC002_pageTitleTest@3e694b3f]" started-at="2021-02-21T13:52:48 CET" name="PageTitleTest" finished-at="2021-02-21T13:52:57 CET" duration-ms="9278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageTitleTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testCases.TC002_pageTitleTest@3e694b3f]" started-at="2021-02-21T13:52:57 CET" name="CloseBrowser" finished-at="2021-02-21T13:52:58 CET" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- testCases.TC002_pageTitleTest -->
+    </test> <!-- TC002_pageTitleTest -->
+    <test started-at="2021-02-21T13:52:58 CET" name="TC003_shopPriceTest" finished-at="2021-02-21T13:53:13 CET" duration-ms="15308">
+      <class name="testCases.TC003_shopPriceTest">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:testCases.TC003_shopPriceTest@5fe94a96]" started-at="2021-02-21T13:52:58 CET" name="LaunchBrowser" finished-at="2021-02-21T13:53:05 CET" duration-ms="7174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="ShopPriceTest()[pri:0, instance:testCases.TC003_shopPriceTest@5fe94a96]" started-at="2021-02-21T13:53:05 CET" name="ShopPriceTest" finished-at="2021-02-21T13:53:13 CET" duration-ms="7429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShopPriceTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testCases.TC003_shopPriceTest@5fe94a96]" started-at="2021-02-21T13:53:13 CET" name="CloseBrowser" finished-at="2021-02-21T13:53:13 CET" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- testCases.TC003_shopPriceTest -->
+    </test> <!-- TC003_shopPriceTest -->
+    <test started-at="2021-02-21T13:53:13 CET" name="TC004_routesAndTopics" finished-at="2021-02-21T13:53:28 CET" duration-ms="14364">
+      <class name="testCases.TC004_routesAndTopics">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:testCases.TC004_routesAndTopics@51399530]" started-at="2021-02-21T13:53:13 CET" name="LaunchBrowser" finished-at="2021-02-21T13:53:21 CET" duration-ms="7069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="RoutesTopicTest()[pri:0, instance:testCases.TC004_routesAndTopics@51399530]" started-at="2021-02-21T13:53:21 CET" name="RoutesTopicTest" finished-at="2021-02-21T13:53:27 CET" duration-ms="6602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RoutesTopicTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testCases.TC004_routesAndTopics@51399530]" started-at="2021-02-21T13:53:27 CET" name="CloseBrowser" finished-at="2021-02-21T13:53:28 CET" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- testCases.TC004_routesAndTopics -->
+    </test> <!-- TC004_routesAndTopics -->
+    <test started-at="2021-02-21T13:53:28 CET" name="TC005_dataDrivenSimpleLogin" finished-at="2021-02-21T13:53:42 CET" duration-ms="13818">
+      <class name="testCases.TC005_dataDrivenSimpleLogin">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:testCases.TC005_dataDrivenSimpleLogin@4afcd809]" started-at="2021-02-21T13:53:28 CET" name="LaunchBrowser" finished-at="2021-02-21T13:53:35 CET" duration-ms="7069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="DataDrivernLoginTest()[pri:0, instance:testCases.TC005_dataDrivenSimpleLogin@4afcd809]" started-at="2021-02-21T13:53:35 CET" name="DataDrivernLoginTest" finished-at="2021-02-21T13:53:41 CET" duration-ms="6082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataDrivernLoginTest -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testCases.TC005_dataDrivenSimpleLogin@4afcd809]" started-at="2021-02-21T13:53:41 CET" name="CloseBrowser" finished-at="2021-02-21T13:53:42 CET" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- testCases.TC005_dataDrivenSimpleLogin -->
+    </test> <!-- TC005_dataDrivenSimpleLogin -->
+  </suite> <!-- KomootTestSuit -->
+</testng-results>
