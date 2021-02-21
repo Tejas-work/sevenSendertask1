@@ -60,7 +60,7 @@ Automation of KOMOOT.COM using Page Object/Page Factory
 #### TC004_routesAndTopics
 - Logged in according to ***TC001_simpleLoginTest***
 - Click on **Browse routes and topics**
-- Extract Text from all 114 elements 
+- Extract Text from all 14 elements 
 - Print on console
 - Close Browser
 
