@@ -71,7 +71,8 @@ Automation of KOMOOT.COM using Page Object/Page Factory
 - Close Browser
  -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+###Results
+- Go to *target* -> *surefire-reports* -> *Suite* -> index.xml
 
 
 
