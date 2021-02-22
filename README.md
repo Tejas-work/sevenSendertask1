@@ -71,9 +71,9 @@ Automation of KOMOOT.COM using Page Object/Page Factory
 - Close Browser
  -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-###Results
-- Go to *target* -> *surefire-reports* -> *Suite* -> index.xml
-
+### Results
+- REFRESH PROJECT then Go to *target* -> *surefire-reports* -> *Suite* -> index.xml
+ -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 💪 Mastering automation testing to improve software quality
