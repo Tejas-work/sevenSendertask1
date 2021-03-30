@@ -1,4 +1,4 @@
-# selenium-java SevenSender Task1
+# selenium-java seleniumRepo1
 Automation of KOMOOT.COM using Page Object/Page Factory 
 
 ## Prerequisites 
